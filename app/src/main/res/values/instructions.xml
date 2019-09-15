@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="step_1">Zatrzymaj swoje auto w bezpiecznym miejscu i upewnij się, czy pojazd nie zagradza wjazdu służbom ratunkowym</string>
+    <string name="step_2">Włącz światła awaryjne </string>
+    <string name="step_3">Gdy jest ciemno lub jest słaba widoczność, nałóż kamizelkę odblaskową – warto także mieć rękawiczki</string>
+    <string name="step_4">Wystaw trójkąt bezpieczeństwa za samochodem</string>
+    <string name="step_5">Pamiętaj, by przy wyjściu z samochodu wziąć ze sobą:\n-\tApteczkę\n-\tGaśnice\n-\tTelefon komórkowy\n-\tNóż do przecinania pasów i
+        zbijak do szyb (jeśli posiadasz)
+    </string>
+    <string name="step_6">Podejdź do poszkodowanego i w miarę możliwości wyłącz silnik uszkodzonego pojazdu</string>
+    <string name="step_7">Podchodząc do osoby poszkodowanej, oceń ogólnie jej stan oraz miejsce zdarzenia. Należy zwrócić uwagę na widoczne urazy (tj. krwotoki, złamania, amputacje, oparzenia itp.),</string>
+    <string name="step_8">Wezwij pogotowie ratownicze! Podaj:\n\tMiejsce zdarzenia\n\tOkreśl zdarzenie\n\tIlość i stan
+        poszkodowanych\n\tOpisz poszkodowane osoby\n\tPodaj swoje dane do kontaktu ( Imię, nazwisko, numer telefonu)</string>
+</resources>

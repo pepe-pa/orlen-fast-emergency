@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HackYeah Orlen</string>
+    <string name="next_button_text">Dalej</string>
+    <string name="play_again_button_text">Odtwórz jeszcze raz</string>
+    <string name="main_first_aid_title">Poradnik pierwszej pomocy</string>
+    <string name="main_report_title">Zgłoś zdarzenie</string>
+    <string name="main_nearby_title">W pobliżu</string>
+    <string name="call_emergency_instructions_text">Twoja lokalizacja to: </string>
+    <string name="title_activity_resuscitation">ResuscitationActivity</string>
+    <string name="main_resuscitation_title">Resuscytacja</string>
+
+</resources>

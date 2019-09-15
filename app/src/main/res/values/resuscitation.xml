@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--child-->
+    <string name="resuscitation_child_step_1" >Sprawdź, czy poszkodowany oddycha Uklęknij przy nim. Udrożnij drogi oddechowe i sprawdź oddech – lekko odchyl głowę do tyłu i unieś żuchwę</string>
+    <string name="resuscitation_child_step_2" >Wykonaj 5 wdechów ratowniczych.</string>
+    <string name="resuscitation_child_step_3" >Wykonaj 15 uciśnięć klatki piersiowej – uciskaj mostek na głębokość 1/3 wymiaru przednio-tylnego</string>
+    <string name="resuscitation_child_step_4" >Wykonaj 2 oddechy ratownicze.</string>
+    <string name="resuscitation_child_step_5" >Kontynuuj resuscytację aż do przyjazdu pogotowia.</string>
+    <string name="additional_info_child">https://www.youtube.com/watch?v=-qsLO9kauAU</string>
+
+    <!--baby-->
+    <string name="resuscitation_baby_step_1" >Sprawdź, czy poszkodowany oddycha Uklęknij przy nim. Udrożnij drogi oddechowe i sprawdź oddech – lekko
+        odchyl głowę do tyłu i unieś żuchwę</string>
+    <string name="resuscitation_baby_step_2" >Wykonaj 5 wdechów ratowniczych.</string>
+    <string name="resuscitation_baby_step_3" >Wykonaj 15 uciśnięć klatki piersiowej używając jedynie 2 palców– uciskaj mostek na głębokość 1/3
+        wymiaru
+        przednio-tylnego</string>
+    <string name="resuscitation_baby_step_4" >Wykonaj 2 oddechy ratownicze.</string>
+    <string name="resuscitation_baby_step_5" >Kontynuuj resuscytację aż do przyjazdu pogotowia.</string>
+    <string name="additional_info_baby">https://www.youtube.com/watch?v=KP3YKtoqGiI</string>
+
+    <!--adult-->
+    <string name="resuscitation_adult_step_1">Sprawdź, czy poszkodowany oddycha Uklęknij przy nim. Udrożnij drogi oddechowe i sprawdź oddech –
+        lekko odchyl głowę do tyłu i unieś żuchwę.</string>
+    <string name="resuscitation_adult_step_2" >Wykonaj 30 uciśnięć klatki piersiowej</string>
+    <string name="resuscitation_adult_step_3" >Wykonaj 2 oddechy</string>
+    <string name="resuscitation_adult_step_4"> Kontynuuj resuscytację aż do przyjazdu pogotowia</string>
+
+    <string name="additional_info_adult">https://www.youtube.com/watch?v=Cy_5Z2lNEnY</string>
+</resources>
